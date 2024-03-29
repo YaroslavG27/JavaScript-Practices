@@ -1,5 +1,7 @@
-let js = 'amazing'
-console.log(40 + 8 + 23 - 10)
+let country = 'Venezuela'
+let continent = 'America'
+let population = 28
 
-let firstName = 'Bob'
-console.log(firstName)
+console.log(country)
+console.log(continent)
+console.log(population)
