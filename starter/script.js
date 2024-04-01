@@ -1,8 +1,8 @@
-let country = 'Venezuela'
-let continent = 'America'
+const country = 'Venezuela'
+const continent = 'America'
 let population = 28
-let isIsland = false
-let language
+const isIsland = false
+const language = 'Spanish'
 
 console.log(typeof(isIsland))
 console.log(typeof(population))
